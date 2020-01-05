@@ -1,2 +1,2 @@
 # ubiquitous-computing-machine
-hello worls
+hello world
